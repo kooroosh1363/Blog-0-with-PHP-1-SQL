@@ -1,0 +1,7 @@
+/var/*.sqlite
+/var/*.sqlite-*
+/var/*.db
+/.idea/
+/.vscode/
+.DS_Store
+*.log
